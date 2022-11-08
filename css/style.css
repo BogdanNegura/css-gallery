@@ -11,37 +11,14 @@ html {
 body {
   margin: 0;
   font-family: Inter;
-<<<<<<< HEAD
   background-color: white;
-=======
-  background-image: linear-gradient(
-    to right top,
-    #d16ba5,
-    #c777b9,
-    #ba83ca,
-    #aa8fd8,
-    #9a9ae1,
-    #8aa7ec,
-    #79b3f4,
-    #69bff8,
-    #52cffe,
-    #41dfff,
-    #46eefa,
-    #5ffbf1
-  );
->>>>>>> 8b1e1f77cc6de4976d702420e110fdbd11e1a5a3
 }
 
 .wrapper {
   display: flex;
-<<<<<<< HEAD
   flex-direction: column;
   justify-content: center;
   color: red;
-=======
-  height: 100%;
-  width: 100%;
->>>>>>> 8b1e1f77cc6de4976d702420e110fdbd11e1a5a3
 }
 
 .main-container {
