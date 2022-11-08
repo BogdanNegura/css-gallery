@@ -1,7 +1,23 @@
-body {
-  background-color: aqua;
+* {
+  box-sizing: border-box;
 }
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Inter;
+  background-color: white;
+}
+
 .wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   color: red;
 }
 
