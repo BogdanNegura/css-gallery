@@ -1,0 +1,12 @@
+.primary-button {
+  height: 40px;
+  width: fit-content;
+  padding: 10px;
+  background: #00c9b7;
+  border-radius: 5px;
+  color: #ffffff;
+}
+
+.primary-button:hover {
+  border-radius: 20px;
+}

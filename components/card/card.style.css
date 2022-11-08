@@ -1,0 +1,21 @@
+.primary_card {
+  width: 50%;
+  height: fit-content;
+  padding: 10px;
+  background-color: #ffffff;
+  /* background-image: linear-gradient(
+    to right top,
+    #ffffff,
+    #e8e1ff,
+    #d3c3ff,
+    #c0a4ff,
+    #ae84fd
+  ); */
+  border: 3px solid #000000;
+  /* box-shadow: 10px 10px 14px 1px rgb(0 0 0 / 20%); */
+  border-radius: 5px;
+}
+
+.primary_card:hover {
+  box-shadow: 10px 10px 14px 1px rgb(0 0 0 / 20%);
+}
